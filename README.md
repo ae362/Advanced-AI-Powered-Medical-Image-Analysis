@@ -1,7 +1,7 @@
 # 🧠 Advanced AI-Powered Medical Image Analysis
 
 ### BSc Computer Science — Individual Project 2024/2025  
-**Author:** Ayoub Elghayati   - Contact : elayoub407@gmail.com
+**Author:** Ayoub Elghayati  - Contact : elayoub407@gmail.com
 **Institution:** Canterbury Christ Church University  
 **Supervisor:** Ruth Thompson   - Contact : ruth.thompson1@canterbury.ac.uk
 
