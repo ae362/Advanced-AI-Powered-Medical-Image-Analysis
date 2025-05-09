@@ -24,7 +24,7 @@ This system is an AI-powered medical image analysis platform designed to support
 ## ⚙️ Installation
 
 ### 1. Backend Setup (Django + DRF)
-⚠️ Python 3.11.x is recommended
+⚠️ Python 3.11.9 is recommended ⚠️
 
 ```bash
 cd Backend
