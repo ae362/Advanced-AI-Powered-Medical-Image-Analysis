@@ -76,7 +76,6 @@ python-multipart==0.0.20
 pytz==2025.2
 requests==2.32.3
 rich==14.0.0
-rest_framework
 scikit-learn==1.6.1
 scipy==1.15.2
 seaborn==0.13.2
