@@ -91,11 +91,9 @@ All API endpoints protected and validated
 ```
 
 ## 🧠 Future Directions
-Expand to additional conditions (e.g. stroke, lung cancer)
+Expand to additional conditions (e.g. stroke,)
 
 Add real-time team collaboration tools
-
-Support on-device/offline model inference
 
 Begin steps toward safe, validated clinical trials
 
@@ -111,4 +109,3 @@ Canterbury Christ Church University
 
 OpenAI & PyTorch communities
 
-Medical imaging dataset authors and curators
