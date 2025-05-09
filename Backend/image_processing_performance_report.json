@@ -1,0 +1,54 @@
+{
+  "complexity_tests": {
+    "low": {
+      "total_duration_seconds": 0.21564364433288574,
+      "avg_response_time_ms": 0.0,
+      "max_response_time_ms": 0.0,
+      "min_response_time_ms": 0.0,
+      "p95_response_time_ms": null,
+      "avg_cpu_usage_percent": 2.1,
+      "max_cpu_usage_percent": 2.1,
+      "avg_memory_usage_percent": 75.9,
+      "max_memory_usage_percent": 75.9,
+      "avg_thread_count": 1.0,
+      "max_thread_count": 1,
+      "error_count": 0,
+      "success_rate_percent": 100.0
+    },
+    "medium": {
+      "total_duration_seconds": 0.21314430236816406,
+      "avg_response_time_ms": 0.0,
+      "max_response_time_ms": 0.0,
+      "min_response_time_ms": 0.0,
+      "p95_response_time_ms": null,
+      "avg_cpu_usage_percent": 0.0,
+      "max_cpu_usage_percent": 0.0,
+      "avg_memory_usage_percent": 75.9,
+      "max_memory_usage_percent": 75.9,
+      "avg_thread_count": 1.0,
+      "max_thread_count": 1,
+      "error_count": 0,
+      "success_rate_percent": 100.0
+    },
+    "high": {
+      "total_duration_seconds": 0.2459726333618164,
+      "avg_response_time_ms": 0.0,
+      "max_response_time_ms": 0.0,
+      "min_response_time_ms": 0.0,
+      "p95_response_time_ms": null,
+      "avg_cpu_usage_percent": 0.0,
+      "max_cpu_usage_percent": 0.0,
+      "avg_memory_usage_percent": 75.9,
+      "max_memory_usage_percent": 75.9,
+      "avg_thread_count": 1.0,
+      "max_thread_count": 1,
+      "error_count": 0,
+      "success_rate_percent": 100.0
+    }
+  },
+  "system_info": {
+    "cpu_count": 8,
+    "total_memory_gb": 15.823780059814453,
+    "platform": "nt"
+  }
+}

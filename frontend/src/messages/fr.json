@@ -1,0 +1,25 @@
+{
+    "settings": {
+      "languageSelector": "Langue",
+      "selectLanguage": "Choisir la langue",
+      "generalSettings": "Paramètres généraux",
+      "generalSettingsDescription": "Configurez vos préférences d'application",
+      "diseaseManagement": "Gestion des maladies",
+      "diseaseManagementDescription": "Gérer les types de maladies et les configurations",
+      "newDiseaseName": "Nom de la maladie",
+      "newDiseaseNamePlaceholder": "Entrez le nom de la maladie",
+      "newDiseaseKey": "Clé de la maladie",
+      "newDiseaseKeyPlaceholder": "Entrez la clé de la maladie",
+      "newDiseaseDescription": "Description",
+      "newDiseaseDescriptionPlaceholder": "Entrez la description",
+      "addDisease": "Ajouter une maladie"
+    },
+    "languages": {
+      "en": "Anglais",
+      "fr": "Français",
+      "es": "Espagnol",
+      "ar": "Arabe"
+    }
+  }
+  
+  

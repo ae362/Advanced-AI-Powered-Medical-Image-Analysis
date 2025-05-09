@@ -1,0 +1,101 @@
+{
+  "intensity_tests": {
+    "low": {
+      "metrics": {
+        "total_duration_seconds": 3.1244876384735107,
+        "avg_response_time_ms": 0.0,
+        "max_response_time_ms": 0.0,
+        "min_response_time_ms": 0.0,
+        "p95_response_time_ms": 0.0,
+        "avg_cpu_usage_percent": 1.98,
+        "max_cpu_usage_percent": 3.9,
+        "avg_memory_usage_percent": 75.94000000000001,
+        "max_memory_usage_percent": 76.0,
+        "avg_thread_count": 1.0,
+        "max_thread_count": 1,
+        "error_count": 0,
+        "success_rate_percent": 100.0
+      },
+      "config": {
+        "concurrent_requests": 2,
+        "image_complexity": "low",
+        "background_load": 0
+      },
+      "success_rate": 100.0
+    },
+    "medium": {
+      "metrics": {
+        "total_duration_seconds": 3.132404327392578,
+        "avg_response_time_ms": 0.0,
+        "max_response_time_ms": 0.0,
+        "min_response_time_ms": 0.0,
+        "p95_response_time_ms": 0.0,
+        "avg_cpu_usage_percent": 1.56,
+        "max_cpu_usage_percent": 3.7,
+        "avg_memory_usage_percent": 75.88000000000001,
+        "max_memory_usage_percent": 75.9,
+        "avg_thread_count": 2.0,
+        "max_thread_count": 2,
+        "error_count": 0,
+        "success_rate_percent": 100.0
+      },
+      "config": {
+        "concurrent_requests": 5,
+        "image_complexity": "medium",
+        "background_load": 30
+      },
+      "success_rate": 100.0
+    },
+    "high": {
+      "metrics": {
+        "total_duration_seconds": 3.166005849838257,
+        "avg_response_time_ms": 0.09753704071044922,
+        "max_response_time_ms": 0.9753704071044922,
+        "min_response_time_ms": 0.0,
+        "p95_response_time_ms": 0.5364537239074697,
+        "avg_cpu_usage_percent": 0.4,
+        "max_cpu_usage_percent": 2.0,
+        "avg_memory_usage_percent": 75.9,
+        "max_memory_usage_percent": 75.9,
+        "avg_thread_count": 3.0,
+        "max_thread_count": 3,
+        "error_count": 0,
+        "success_rate_percent": 100.0
+      },
+      "config": {
+        "concurrent_requests": 10,
+        "image_complexity": "high",
+        "background_load": 60
+      },
+      "success_rate": 100.0
+    },
+    "extreme": {
+      "metrics": {
+        "total_duration_seconds": 3.1698520183563232,
+        "avg_response_time_ms": 0.10020732879638672,
+        "max_response_time_ms": 1.0027885437011719,
+        "min_response_time_ms": 0.0,
+        "p95_response_time_ms": 1.001429557800293,
+        "avg_cpu_usage_percent": 2.2800000000000002,
+        "max_cpu_usage_percent": 5.4,
+        "avg_memory_usage_percent": 75.8,
+        "max_memory_usage_percent": 75.8,
+        "avg_thread_count": 4.0,
+        "max_thread_count": 4,
+        "error_count": 0,
+        "success_rate_percent": 100.0
+      },
+      "config": {
+        "concurrent_requests": 20,
+        "image_complexity": "high",
+        "background_load": 80
+      },
+      "success_rate": 100.0
+    }
+  },
+  "system_info": {
+    "cpu_count": 8,
+    "total_memory_gb": 15.823780059814453,
+    "platform": "nt"
+  }
+}

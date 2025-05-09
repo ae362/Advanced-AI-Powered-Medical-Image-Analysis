@@ -1,0 +1,27 @@
+{
+  "sustained_load_test": {
+    "total_duration_seconds": 20.144453525543213,
+    "avg_response_time_ms": 19929.60786819458,
+    "max_response_time_ms": 19929.60786819458,
+    "min_response_time_ms": 19929.60786819458,
+    "p95_response_time_ms": null,
+    "avg_cpu_usage_percent": 3.9,
+    "max_cpu_usage_percent": 3.9,
+    "avg_memory_usage_percent": 73.4,
+    "max_memory_usage_percent": 73.4,
+    "avg_thread_count": 3.0,
+    "max_thread_count": 3,
+    "error_count": 0,
+    "success_rate_percent": 100.0
+  },
+  "test_parameters": {
+    "duration_seconds": 10,
+    "request_interval": 0.5,
+    "total_requests": 1
+  },
+  "system_info": {
+    "cpu_count": 8,
+    "total_memory_gb": 15.823780059814453,
+    "platform": "nt"
+  }
+}

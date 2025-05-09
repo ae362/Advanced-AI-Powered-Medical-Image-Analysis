@@ -1,0 +1,78 @@
+{
+  "intensity_tests": {
+    "low": {
+      "metrics": {
+        "total_duration_seconds": 3.128679037094116,
+        "avg_response_time_ms": 4.520416259765625,
+        "max_response_time_ms": 5.005836486816406,
+        "min_response_time_ms": 4.034996032714844,
+        "p95_response_time_ms": 4.957294464111328,
+        "avg_cpu_usage_percent": 0.0,
+        "max_cpu_usage_percent": 0.0,
+        "avg_memory_usage_percent": 74.5,
+        "max_memory_usage_percent": 74.5,
+        "avg_thread_count": 1.0,
+        "max_thread_count": 1,
+        "error_count": 2,
+        "success_rate_percent": 0.0
+      },
+      "config": {
+        "concurrent_requests": 2,
+        "image_complexity": "low",
+        "background_load": 0
+      },
+      "success_rate": 100.0
+    },
+    "medium": {
+      "metrics": {
+        "total_duration_seconds": 3.1473963260650635,
+        "avg_response_time_ms": 11.837530136108398,
+        "max_response_time_ms": 14.037847518920898,
+        "min_response_time_ms": 8.997678756713867,
+        "p95_response_time_ms": 13.85188102722168,
+        "avg_cpu_usage_percent": 0.45999999999999996,
+        "max_cpu_usage_percent": 2.3,
+        "avg_memory_usage_percent": 74.5,
+        "max_memory_usage_percent": 74.5,
+        "avg_thread_count": 2.0,
+        "max_thread_count": 2,
+        "error_count": 5,
+        "success_rate_percent": 0.0
+      },
+      "config": {
+        "concurrent_requests": 5,
+        "image_complexity": "medium",
+        "background_load": 30
+      },
+      "success_rate": 100.0
+    },
+    "high": {
+      "metrics": {
+        "total_duration_seconds": 3.196220874786377,
+        "avg_response_time_ms": 20.17655372619629,
+        "max_response_time_ms": 25.005578994750977,
+        "min_response_time_ms": 13.000249862670898,
+        "p95_response_time_ms": 24.99023675918579,
+        "avg_cpu_usage_percent": 0.76,
+        "max_cpu_usage_percent": 1.9,
+        "avg_memory_usage_percent": 74.5,
+        "max_memory_usage_percent": 74.5,
+        "avg_thread_count": 3.0,
+        "max_thread_count": 3,
+        "error_count": 10,
+        "success_rate_percent": 0.0
+      },
+      "config": {
+        "concurrent_requests": 10,
+        "image_complexity": "high",
+        "background_load": 60
+      },
+      "success_rate": 100.0
+    }
+  },
+  "system_info": {
+    "cpu_count": 8,
+    "total_memory_gb": 15.823780059814453,
+    "platform": "nt"
+  }
+}

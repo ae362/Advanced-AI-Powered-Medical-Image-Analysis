@@ -1,0 +1,54 @@
+{
+  "concurrency_tests": {
+    "5": {
+      "total_duration_seconds": 0.23537731170654297,
+      "avg_response_time_ms": 15.947103500366211,
+      "max_response_time_ms": 19.3173885345459,
+      "min_response_time_ms": 10.8642578125,
+      "p95_response_time_ms": 19.026899337768555,
+      "avg_cpu_usage_percent": 5.8,
+      "max_cpu_usage_percent": 5.8,
+      "avg_memory_usage_percent": 74.5,
+      "max_memory_usage_percent": 74.5,
+      "avg_thread_count": 1.0,
+      "max_thread_count": 1,
+      "error_count": 5,
+      "success_rate_percent": 0.0
+    },
+    "10": {
+      "total_duration_seconds": 0.24419832229614258,
+      "avg_response_time_ms": 20.982742309570312,
+      "max_response_time_ms": 26.960134506225586,
+      "min_response_time_ms": 13.999700546264648,
+      "p95_response_time_ms": 26.510274410247803,
+      "avg_cpu_usage_percent": 6.7,
+      "max_cpu_usage_percent": 6.7,
+      "avg_memory_usage_percent": 74.5,
+      "max_memory_usage_percent": 74.5,
+      "avg_thread_count": 1.0,
+      "max_thread_count": 1,
+      "error_count": 10,
+      "success_rate_percent": 0.0
+    },
+    "20": {
+      "total_duration_seconds": 0.27454519271850586,
+      "avg_response_time_ms": 37.34017610549927,
+      "max_response_time_ms": 49.05366897583008,
+      "min_response_time_ms": 25.99954605102539,
+      "p95_response_time_ms": 46.191418170928955,
+      "avg_cpu_usage_percent": 4.3,
+      "max_cpu_usage_percent": 4.3,
+      "avg_memory_usage_percent": 74.5,
+      "max_memory_usage_percent": 74.5,
+      "avg_thread_count": 1.0,
+      "max_thread_count": 1,
+      "error_count": 20,
+      "success_rate_percent": 0.0
+    }
+  },
+  "system_info": {
+    "cpu_count": 8,
+    "total_memory_gb": 15.823780059814453,
+    "platform": "nt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "settings": {
+      "languageSelector": "اللغة",
+      "selectLanguage": "اختر اللغة"
+    },
+    "languages": {
+      "en": "الإنجليزية",
+      "fr": "الفرنسية",
+      "es": "الإسبانية",
+      "ar": "العربية"
+    }
+  }
+  
+  
