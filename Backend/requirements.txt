@@ -55,7 +55,7 @@ opt_einsum==3.4.0
 optree==0.14.1
 packaging==24.2
 pandas==2.2.3
-pillow==11.2.0
+pillow
 pluggy==1.5.0
 protobuf==5.29.4
 psutil==7.0.0
