@@ -59,12 +59,10 @@ Optionally send results via email
 ## 🔐 OpenAI Integration
 This system uses OpenAI's GPT-4 to generate explanations for medical predictions.
 
-⚠️ For security reasons, the actual API key is not included.
-Each user must:
-1. Create an account at https://platform.openai.com
-2. Generate a key under API Keys
-3. head to backend/api/views.py (go to line 396)
-4. include your key in api_key (dont forget the " " )
+⚠️ For security reasons, the actual API key is not included in the code.
+1. go to backend/important.txt
+2. copy the content to backend/api/views.py ( go to line 396)
+3. paste the content after the dash
 
 ## 📊 Performance
 Model	Accuracy
