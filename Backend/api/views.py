@@ -393,7 +393,7 @@ def extract_heatmap_metadata(base64_str):
         logger.error(f"Stack trace: {traceback.format_exc()}")
         return None
 
-client = OpenAI(api_key="include your key here")
+client = OpenAI(api_key="sk-proj-include your key here")
 @api_view(['POST'])
 def generate_explanation_and_staging(request, analysis_id):
     try:
