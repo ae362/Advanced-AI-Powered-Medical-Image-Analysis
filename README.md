@@ -78,9 +78,6 @@ All API endpoints protected and validated
 
 ## 📁 Architecture
 ```graphql
-Copy
-Edit
-.
 ├── Backend/         # Django backend with AI services and APIs
 ├── frontend/        # React/Next.js frontend interface
 └── README.md
