@@ -47,7 +47,10 @@ Go to http://localhost:3000
 
 Create a patient 
 
-Upload a medical image
+Upload a medical image :
+you can find test samples in : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset  For Brain Tumour
+
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images For Lung Cancer
 
 View predictions, Grad-CAM overlays, and AI-generated explanations
 
