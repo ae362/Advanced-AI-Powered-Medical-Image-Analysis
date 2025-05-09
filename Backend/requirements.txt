@@ -14,10 +14,10 @@ cryptography==44.0.2
 cycler==0.12.1
 distro==1.9.0
 django
-django-cors-headers==4.7.0
+django-cors-headers
 django-rest-framework-mongoengine==3.4.1
-djangorestframework==3.16.0
-djangorestframework_simplejwt==5.5.0
+djangorestframework
+djangorestframework_simplejwt
 dnspython==2.7.0
 efficientnet-pytorch==0.7.1
 filelock==3.18.0
