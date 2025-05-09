@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 ### 2. Frontend Setup (React + Next.js)
-1. New terminal to avoid interference with backend server
+⚠️ New terminal to avoid interference with backend server
 2.
 ```bash
 cd frontend
