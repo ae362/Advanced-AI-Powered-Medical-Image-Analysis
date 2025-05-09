@@ -31,9 +31,9 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 ### 2. Frontend Setup (React + Next.js)
+1. New terminal to avoid interference with backend server
+2.
 ```bash
-Copy
-Edit
 cd frontend
 npm install
 npm run dev
@@ -42,6 +42,8 @@ npm run dev
 Once both frontend and backend are running:
 
 Go to http://localhost:3000
+
+Create a patient 
 
 Upload a medical image
 
